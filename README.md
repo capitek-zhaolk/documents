@@ -1,1 +1,1 @@
-�١�Ubuntu NFS��װ��ʹ�ý̳�
+①、Ubuntu NFS安装及使用教程
